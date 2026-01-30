@@ -1,0 +1,1 @@
+{"VID_TRAIN_0": {"subset": "training", "duration": 10.0, "actions": [[0, 1.0, 3.0], [1, 5.0, 8.0]]}, "VID_TEST_0": {"subset": "testing", "duration": 10.0, "actions": [[0, 1.0, 3.0], [1, 5.0, 8.0]]}}
